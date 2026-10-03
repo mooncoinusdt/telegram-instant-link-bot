@@ -1,0 +1,16 @@
+{
+  "name": "telegram-instant-link-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "deploy": "wrangler deploy"
+  },
+  "dependencies": {
+    "big-integer": "^1.6.52",
+    "teleproto": "^1.229.1"
+  },
+  "devDependencies": {
+    "wrangler": "^4.135.0"
+  }
+}
